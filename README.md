@@ -31,4 +31,4 @@ La aplicación Bmanager consulta el archivo `update.json` para:
 
 ## 🧠 Autor
 
-Proyecto desarrollado por [William Muñoz]
+Proyecto desarrollado por [William Muñoz](https://www.linkedin.com/in/william62185/)
