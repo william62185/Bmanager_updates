@@ -1,0 +1,11 @@
+{
+  "version": "1.0.5",
+  "release_date": "2026-03-27",
+  "download_url": "https://github.com/william62185/Bmanager_updates/download/v1.0.5/BuildingManager-1.0.5.zip",
+  "checksum": "COPIAR_DE_releases/version-1.0.5.json",
+  "size_mb": 65.94,
+  "release_notes": "Primera versión con actualizaciones automáticas",
+  "min_version": "1.0.0",
+  "critical": false,
+  "changelog_url": "https://github.com/william62185/Bmanager_updates/blob/main/CHANGELOG.md"
+}
