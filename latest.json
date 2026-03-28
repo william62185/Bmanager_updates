@@ -1,13 +1,11 @@
 {
   "version": "1.0.6",
-  "release_date": "2026-03-28",
-  "download_url": "https://github.com/william62185/Bmanager_updates/releases/download/v1.0.6/BuildingManager-1.0.6.zip",
-  "url": "https://github.com/william62185/Bmanager_updates/releases/download/v1.0.6/BuildingManager-1.0.6.zip",
+  "url": "https://servidor.com/downloads/BuildingManager-1.0.6.zip",
   "checksum": "sha256:7c06724eecaa3cf01d2ad53d04d569d57857452406ff68fd9d5c0eb2682bdd0b",
   "size_mb": 65.96,
-  "release_notes": "## Versión 1.0.6\n\n### Nuevas Características\n- Sistema de actualizaciones automáticas\n- Verificación de checksums SHA256\n- Interfaz mejorada para actualizaciones\n\n### Mejoras\n- Optimización del proceso de descarga\n- Mejor manejo de errores\n\n### Correcciones\n- Corrección de bugs menores\n- Mejoras de estabilidad",
+  "release_date": "2026-03-28",
+  "release_notes": "Versión 1.0.6: mejoras de UI (dashboard, contabilidad, administración), actualizaciones y correcciones.",
   "min_version": "1.0.0",
   "critical": false,
-  "changelog_url": "https://github.com/william62185/Bmanager_updates/blob/main/CHANGELOG.md"
+  "changelog_url": "https://servidor.com/changelog/1.0.6"
 }
-
