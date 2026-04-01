@@ -1,10 +1,11 @@
 {
   "version": "1.1.2",
+  "release_date": "2026-04-01",
   "download_url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.2/BuildingManager-1.1.2.zip",
+  "url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.2/BuildingManager-1.1.2.zip",
   "checksum": "sha256:fc20b1def1fe95eab8ecc7289f4bd8fecfbfa8afc8dc1212e1a9d270f7fa476a",
   "size_mb": 44.82,
-  "release_date": "2026-04-01",
-  "release_notes": "Checkpoint 1.1.2: estandarización de reportes, exportaciones y mejoras UX de calendario",
+  "release_notes": "Reempaquetado v1.1.2 para actualización",
   "min_version": "1.0.0",
   "critical": false,
   "changelog_url": "https://github.com/william62185/Bmanager_updates/blob/main/CHANGELOG.md"
