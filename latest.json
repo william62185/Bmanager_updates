@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "release_date": "2026-03-29",
-  "download_url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.1/BuildingManager-1.1.1.zip",
-  "checksum": "sha256:2d78f4ab21a475d60872cf5589a0d1491c9d7ddb6df039a1d30e15000bd14c00",
-  "size_mb": 65.96,
-  "release_notes": "Versión 1.1.1: actualizador con nombre correcto del ejecutable, UAC en Program Files e interfaz de actualización mejorada.",
+  "version": "1.1.2",
+  "url": "https://servidor.com/downloads/BuildingManager-1.1.2.zip",
+  "checksum": "sha256:fc20b1def1fe95eab8ecc7289f4bd8fecfbfa8afc8dc1212e1a9d270f7fa476a",
+  "size_mb": 44.82,
+  "release_date": "2026-04-01",
+  "release_notes": "Checkpoint 1.1.2: estandarización de reportes, exportaciones y mejoras UX de calendario",
   "min_version": "1.0.0",
   "critical": false,
-  "changelog_url": "https://github.com/william62185/Bmanager_updates/blob/main/CHANGELOG.md"
+  "changelog_url": "https://servidor.com/changelog/1.1.2"
 }
