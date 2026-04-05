@@ -1,11 +1,11 @@
 {
-  "version": "1.1.4",
-  "download_url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.4/BuildingManager-1.1.4.zip",
-  "url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.4/BuildingManager-1.1.4.zip",
-  "checksum": "sha256:0b5a75f82f6c77cb1b50cb0dbfaffaff88f19e7558079b81a103014f9aea34e0",
-  "size_mb": 65.97,
-  "release_date": "2026-04-01",
-  "release_notes": "Actualización 1.1.4: validación del flujo de actualización con updater reforzado y manejo robusto de archivos bloqueados (WinError 32).",
+  "version": "1.1.5",
+  "download_url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.5/BuildingManager-1.1.5.zip",
+  "url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.5/BuildingManager-1.1.5.zip",
+  "checksum": "sha256:b91397cbe052c5819a2a4ab97ec743c5a3ca2ec3ad55c1690626e5c9c695be70",
+  "size_mb": 65.8,
+  "release_date": "2026-04-05",
+  "release_notes": "Versión 1.1.5: mejoras UX en formulario de nuevo inquilino, alineación de campos, acceso rápido desde dashboard al registro y correcciones de navegación.",
   "min_version": "1.0.0",
   "critical": false,
   "changelog_url": "https://github.com/william62185/Bmanager_updates/blob/main/CHANGELOG.md"
