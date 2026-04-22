@@ -1,11 +1,11 @@
 {
-  "version": "1.1.5",
-  "download_url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.5/BuildingManager-1.1.5.zip",
-  "url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.5/BuildingManager-1.1.5.zip",
-  "checksum": "sha256:b91397cbe052c5819a2a4ab97ec743c5a3ca2ec3ad55c1690626e5c9c695be70",
-  "size_mb": 65.8,
-  "release_date": "2026-04-05",
-  "release_notes": "Versión 1.1.5: mejoras UX en formulario de nuevo inquilino, alineación de campos, acceso rápido desde dashboard al registro y correcciones de navegación.",
+  "version": "1.1.6",
+  "download_url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.6/BuildingManager-1.1.6.zip",
+  "url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.6/BuildingManager-1.1.6.zip",
+  "checksum": "sha256:5c53085cb8164ee0b5a09918ac5ba05ad22449f3906c922aefa0d7b4ebad439c",
+  "size_mb": 65.86,
+  "release_date": "2026-04-22",
+  "release_notes": "Correcciones de seguridad: hash de contraseñas PBKDF2, protección contra path traversal en backups, cambio obligatorio de contraseña en primer acceso. Corrección de color en campo valor arriendo. Paginación corregida en módulo Ingresos.",
   "min_version": "1.0.0",
   "critical": false,
   "changelog_url": "https://github.com/william62185/Bmanager_updates/blob/main/CHANGELOG.md"
