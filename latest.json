@@ -1,11 +1,11 @@
 {
-  "version": "1.1.6",
-  "download_url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.6/BuildingManager-1.1.6.zip",
-  "url": "https://github.com/william62185/Bmanager_updates/releases/download/1.1.6/BuildingManager-1.1.6.zip",
-  "checksum": "sha256:5c53085cb8164ee0b5a09918ac5ba05ad22449f3906c922aefa0d7b4ebad439c",
-  "size_mb": 65.86,
-  "release_date": "2026-04-22",
-  "release_notes": "Correcciones de seguridad: hash de contraseñas PBKDF2, protección contra path traversal en backups, cambio obligatorio de contraseña en primer acceso. Corrección de color en campo valor arriendo. Paginación corregida en módulo Ingresos.",
+  "version": "1.1.7",
+  "download_url": "https://github.com/william62185/Bmanager_updates/releases/download/v1.1.7/BuildingManager-1.1.7.zip",
+  "url": "https://github.com/william62185/Bmanager_updates/releases/download/v1.1.7/BuildingManager-1.1.7.zip",
+  "checksum": "sha256:23aae68595308e0f87a4fb32050317779aab63b69a2a1fca64b1ad1466f8f2ec",
+  "size_mb": 65.89,
+  "release_date": "2026-05-04",
+  "release_notes": "Seguridad reforzada y flujo de licencia mejorado",
   "min_version": "1.0.0",
   "critical": false,
   "changelog_url": "https://github.com/william62185/Bmanager_updates/blob/main/CHANGELOG.md"
